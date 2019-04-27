@@ -1,0 +1,28 @@
+{
+  "name": "html-mqtt-video-streamer",
+  "version": "1.0.0",
+  "description": "This is an HTML5 + MQTT Video Streammer and Client.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrfuai/html-mqtt-video-streamer.git"
+  },
+  "keywords": [
+    "HTML5",
+    "mqtt",
+    "video",
+    "stream"
+  ],
+  "author": "Alejandro Cena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrfuai/html-mqtt-video-streamer/issues"
+  },
+  "homepage": "https://github.com/lrfuai/html-mqtt-video-streamer#readme",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
